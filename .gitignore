@@ -1,0 +1,21 @@
+# This repository holds published release assets, and every one of them is uploaded to a GitHub
+# release by the workflow rather than committed. Nothing large should ever be in the working tree,
+# so these patterns exist to catch a hand-built installer somebody dragged in to test an upload.
+*.exe
+*.dmg
+*.zip
+*.AppImage
+*.deb
+*.rpm
+*.blockmap
+*.msi
+
+# The update feed. It belongs in a release's assets, not in git — a copy committed here would be
+# read by nobody and would go stale the moment the next version ships.
+latest.yml
+latest-mac.yml
+latest-linux.yml
+
+# OS metadata
+.DS_Store
+Thumbs.db

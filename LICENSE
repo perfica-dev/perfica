@@ -1,0 +1,35 @@
+LoopCoder
+
+Copyright (c) 2026 UezarDev. All rights reserved.
+
+This software and its source code are proprietary and confidential.
+
+No licence, express or implied, is granted to any person obtaining a copy of this
+software or its source code. Without the prior written permission of the copyright
+holder you may not:
+
+  - use, execute or evaluate this software for any purpose;
+  - copy, reproduce, publish or redistribute it, in source or binary form, in whole
+    or in part;
+  - modify it, or create derivative works based on it;
+  - sublicense, sell, rent, lease or otherwise transfer rights to it;
+  - reverse engineer, decompile or disassemble any binary distribution of it, except
+    to the extent that this restriction is prohibited by applicable law.
+
+Binary releases published at https://github.com/UezarDev/LoopCoder are made available
+for use by their recipients under whatever terms accompany that release, and under no
+other terms. Publication of a binary grants no rights over the source code.
+
+Third-party components distributed with this software remain under their own licences,
+which are reproduced in the distribution and are unaffected by this notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+LoopCoder runs coding agents that execute shell commands and modify files on the
+machine it is installed on. It is alpha software. Run it only against work you have
+backed up.
