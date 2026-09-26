@@ -1,4 +1,4 @@
-LoopCoder
+Perfica (formerly LoopCoder)
 
 Copyright (c) 2026 UezarDev. All rights reserved.
 
@@ -16,7 +16,7 @@ holder you may not:
   - reverse engineer, decompile or disassemble any binary distribution of it, except
     to the extent that this restriction is prohibited by applicable law.
 
-Binary releases published at https://github.com/UezarDev/LoopCoder are made available
+Binary releases published at https://github.com/perfica-dev/perfica are made available
 for use by their recipients under whatever terms accompany that release, and under no
 other terms. Publication of a binary grants no rights over the source code.
 
@@ -30,6 +30,6 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRA
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
 OR OTHER DEALINGS IN THE SOFTWARE.
 
-LoopCoder runs coding agents that execute shell commands and modify files on the
+Perfica runs coding agents that execute shell commands and modify files on the
 machine it is installed on. It is alpha software. Run it only against work you have
 backed up.
