@@ -59,5 +59,5 @@ change files on your computer. Review what runs, and keep backups.
 
 ## Licence
 
-Perfica is proprietary software. See [LICENSE](LICENSE). Downloading a release grants no rights over the
+Perfica is proprietary software, © 2026 Uezar Labs. See [LICENSE](LICENSE). Downloading a release grants no rights over the
 source code.

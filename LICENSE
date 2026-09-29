@@ -1,6 +1,7 @@
 Perfica (formerly LoopCoder)
 
-Copyright (c) 2026 UezarDev. All rights reserved.
+Copyright (c) 2026 Uezar Labs, the trading name of Isaac Razeu Montillas Montilla.
+All rights reserved.
 
 This software and its source code are proprietary and confidential.
 
@@ -17,8 +18,10 @@ holder you may not:
     to the extent that this restriction is prohibited by applicable law.
 
 Binary releases published at https://github.com/perfica-dev/perfica are made available
-for use by their recipients under whatever terms accompany that release, and under no
-other terms. Publication of a binary grants no rights over the source code.
+for use by their recipients under the Perfica terms of use published at
+https://perfica.dev/terms, and under no other terms. For a binary release, those terms
+of use, and not the disclaimer below, set out what the copyright holder is and is not
+responsible for. Publication of a binary grants no rights over the source code.
 
 Third-party components distributed with this software remain under their own licences,
 which are reproduced in the distribution and are unaffected by this notice.
